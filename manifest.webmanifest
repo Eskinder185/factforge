@@ -1,0 +1,15 @@
+{
+  "name": "FactForge",
+  "short_name": "FactForge",
+  "start_url": "/factforge/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#00e5ff",
+  "icons": [
+    {
+      "src": "/factforge/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
